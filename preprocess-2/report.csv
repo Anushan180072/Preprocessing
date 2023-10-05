@@ -1,0 +1,59 @@
+1,,,This Year,,,Last Year,
+2,,Today,MTD,YTD,Same Day,MTD,YTD
+4,  ROOM STATISTICS,,,,,,
+5,Total Rooms,106,318,9858,106,318,9858
+6,Out of Inventory Rooms,106,318,9858,106,318,9858
+7,Available Rooms,16,46,1662,43,105,2532
+8,Out of Order Rooms,90,272,8196,63,213,7326
+9,Total Rentable Rooms,,,,,,
+10,Revenue Rooms,40,114,4030,49,173,3800
+11,Comp Rooms,0,0,0,0,0,0
+12,0.00 Rate Rooms,0,0,0,0,0,0
+13,Day Use Rooms,0,1,17,0,0,19
+14,Total Rooms Occupied,40,113,4013,49,173,3781
+15,Total Rooms Occ w/Day Use,40,114,4030,49,173,3800
+16,Total Rooms Left Vacant,50,159,4183,14,40,3545
+17,Occ ,37.74,35.53,40.71,46.23,54.40,38.35
+18,Occ  + OOO + COMPS,44.44,41.54,48.96,77.78,81.22,51.61
+19,Occ  - OOO + COMPS,26.67,24.63,28.68,9.52,31.92,17.05
+20,Occ  + OOO - COMPS,44.44,41.54,48.96,77.78,81.22,51.61
+21,Occ  + OOO + COMPS + Day Use,44.44,41.91,49.17,77.78,81.22,51.87
+22,Occ  -  OOO + COMPS + Day Use,26.67,25.00,28.89,9.52,31.92,17.31
+23,Occ  + OOO - COMPS + Day Use,44.44,41.91,49.17,77.78,81.22,51.87
+24,Occ  -  OOO - COMPS + Day Use,26.67,25.00,28.89,9.52,31.92,17.31
+25,ADR with Comps,63.87,66.70,61.37,64.15,69.19,64.44
+26,ADR without Comps,63.87,66.70,61.37,64.15,69.19,64.44
+27,Average Revenue Per Room,74.77,78.28,71.77,75.38,80.69,75.02
+28,Revenue Per Available Room,24.10,23.70,24.98,29.66,37.64,24.72
+30,  GUEST STATISTICS,,,,,,
+31,Total Number of Adults,54,164,5779,70,292,5066
+32,Total Number of Children,0,3,44,1,6,152
+33,Total Number of Guests,54,167,5823,71,298,5218
+34,Average Adult Per Room,1.35,1.45,1.44,1.43,1.69,1.34
+35,Average Rate Per Adult,47.31,45.95,42.62,44.91,40.99,48.09
+36,Average Revenue Per Adult,55.38,53.94,49.84,52.77,47.81,55.99
+37,Total Rooms with 1 Guest,"26
+14",6349,"2,3521,582","28
+20",8074,"2,5761,070"
+38,Total Rooms with 2 Guests,0,2,96,1,19,154
+39,Total Rooms with +2 Guests,,,,,,
+40,  ACTIVITY COUNTS,,,,,,
+41,Total Reservations Made,13,29,1583,20,107,1803
+42,Total Walk Ins,7,14,493,2,14,426
+43,Total No Show,0,0,0,0,0,7
+44,Total Reservation Cancellations,7,12,325,4,14,292
+45,Total Early Check Ins,0,0,4,0,0,1
+46,Total Early Check Outs,0,1,37,0,0,48
+47,  REVENUE,,,,,,
+48,Total Taxable Room Revenue,"2,554.64","7,536.60","246,281.33","3,143.48","11,969.07","241,566.35"
+49,Total Non Taxable Room Revenue,0.00,0.00,0.00,0.00,0.00,"2,078.14"
+50,Total Room Revenue,"2,554.64","7,536.60","246,281.33","3,143.48","11,969.07","243,644.49"
+51,"Total Food and Beverage Revenue
+Total Tax Revenue","0.00
+441.02",0.00,0.00,0.00,"2,094.80",0.00
+52,Total Other Revenue,5.00,5.00,"1,344.59",0.00,104.16,"2,032.28"
+53,Total Revenue,"2,990.66","8,845.65","288,015.87","3,693.57","13,959.71","283,658.68"
+54,Total Cash Payments,145.66,"1,251.82","24,751.77",398.00,"1,431.55","54,094.43"
+55,Total Credit Card Payments,"3,042.56","8,057.65","253,777.46","4,079.63","12,114.51","226,684.74"
+56,Total Direct Bill Processed,0.00,63.46,"10,132.22","1,150.44","2,674.13","32,427.52"
+57,Total Payments,"3,188.22","9,372.93","288,661.45","5,628.07","16,220.19","313,206.69"
